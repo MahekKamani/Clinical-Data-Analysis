@@ -9,3 +9,5 @@ source("scripts/prepare_adae.R")
 source("scripts/summary_adae.R")
 
 source("scripts/summary_adsl.R")
+
+cat("\nPipeline complete!\nAll outputs saved to 'adam/' and 'tlf/' folders.\n")
